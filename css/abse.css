@@ -1,0 +1,15 @@
+/*
+* @Author: lihui
+* @Date:   2018-07-11 10:18:06
+* @Last Modified by:   lihui
+* @Last Modified time: 2018-07-11 22:25:27
+*/
+*{
+	padding: 0;
+	margin:0 ;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
